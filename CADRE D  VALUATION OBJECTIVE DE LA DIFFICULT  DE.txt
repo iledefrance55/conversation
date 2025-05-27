@@ -1,0 +1,90 @@
+# CADRE D'ÉVALUATION OBJECTIVE DE LA DIFFICULTÉ DES TÂCHES
+
+Méthodologie pour évaluer objectivement la difficulté des tâches quotidiennes et domestiques, en évitant les stéréotypes genrés ou culturels qui minimisent certains types de travaux. Objectif: créer un système de "handicap" similaire à celui du golf, où une même tâche peut recevoir une évaluation différente selon le contexte et la personne qui l'accomplit.
+
+## CRITÈRES D'ÉVALUATION OBJECTIVE
+
+### Liés à l'effort physique
+• **Dépense énergétique mesurable (calories)**: Quantification de l'énergie physique nécessaire
+• **Impact sur le système cardiovasculaire**: Augmentation du rythme cardiaque et de la pression artérielle
+• **Micro-mouvements répétitifs**: Quantité de petits mouvements répétés causant fatigue et usure
+• **Temps d'attention soutenue requise**: Mesure de l'effort cognitif et concentration nécessaire
+• **Degré d'inconfort physique**: Évaluation des positions contraignantes maintenues
+• **Ratio temps/interruptions**: Impact des interruptions sur l'effort total requis
+• **Charge mentale**: Planification, coordination et anticipation nécessaires
+
+### Liés à la personne
+• **Facteurs personnels**: Âge, sexe, santé, handicaps, maladies chroniques
+• **Alternance effort/récupération**: Possibilité de faire des pauses durant la tâche
+• **Indices physiologiques de stress**: Niveau de stress généré par la tâche
+
+### Environnementaux
+• **Conditions météorologiques**: Température, humidité, précipitations, vent
+• **Conditions du terrain**: Pente, stabilité, texture, obstacles
+• **Qualité des outils disponibles**: Adaptation et état des outils nécessaires
+• **Présence d'infrastructures de soutien**: Eau courante, électricité, surfaces de travail
+• **Distance des ressources nécessaires**: Éloignement des matériaux/outils/installations
+
+### Contextuels
+• **Niveau de risque associé**: Probabilité et gravité des accidents possibles
+• **Conséquences d'une erreur**: Impact potentiel des erreurs pendant la tâche
+• **Possibilité de délégation**: Capacité à partager ou transférer la charge de travail
+• **Visibilité et reconnaissance sociale**: Impact psychologique de la valorisation
+• **Facteur temporel critique**: Contraintes de temps spécifiques
+
+## MÉTHODOLOGIE D'APPLICATION
+
+### Calcul du handicap de base
+1. Évaluer les facteurs permanents (échelle de 0 à 0.5 pour chaque facteur pertinent)
+   - Facteurs personnels (âge, sexe, conditions médicales chroniques)
+   - Conditions de vie permanentes (environnement, infrastructures disponibles)
+   - Charges quotidiennes constantes (responsabilités, engagements)
+
+2. Additionner ces facteurs pour obtenir un handicap de base (typiquement entre 1.0 et 3.0)
+   - 1.0 = personne de référence (adulte en santé, 30-40 ans, conditions optimales)
+   - Chaque facteur personnel ou environnemental ajoute des points au handicap
+
+### Évaluation spécifique à la tâche
+Pour chaque tâche spécifique, ajouter des facteurs supplémentaires (0 à 0.6 chacun) selon:
+   - Effort physique spécifique requis
+   - Conditions particulières d'exécution
+   - Risques particuliers associés
+   - Contraintes temporelles
+
+### Interprétation du score final
+- **1.0-2.0**: Tâche d'effort modéré
+- **2.1-3.0**: Tâche d'effort significatif
+- **3.1-4.0**: Tâche d'effort important
+- **4.1+**: Tâche d'effort intense
+
+## EXEMPLE D'APPLICATION
+
+**Personne**: Femme de 70 ans avec problème de genou, vivant en autonomie dans une maison à 15-16°C, gestion d'un terrain de 5 acres.
+
+**Handicap de base calculé**: 2.8
+- Âge (70 ans): +0.5
+- Sexe (femme): +0.2
+- Problème de genou: +0.4
+- Maison à 15-16°C: +0.3
+- Grand terrain isolé: +0.3
+- Absence d'équipements modernes: +0.3
+- Autosuffisance complète: +0.4
+- Responsabilités animales: +0.2
+- Travail supplémentaire: +0.2
+
+**Tâche évaluée**: Vider 3 bacs de compostage (25kg chacun)
+- Handicap de base: 2.8
+- Effort cardio-respiratoire intense: +0.6
+- Risque de blessure (dos/genou): +0.5
+- Manipulation de poids lourds: +0.5
+**Score final: 4.4** = Tâche d'effort intense
+
+## APPLICATIONS ET BÉNÉFICES
+
+Cette méthode d'évaluation permet de:
+1. Reconnaître objectivement la difficulté réelle des tâches traditionnellement minimisées
+2. Adapter les attentes en fonction des capacités et contextes des personnes
+3. Distribuer plus équitablement les responsabilités dans un groupe
+4. Évaluer plus justement l'effort physique et mental dans différents types de travaux
+
+Cette approche contribue à valoriser l'ensemble des travaux nécessaires à la vie quotidienne, sans reproduire les hiérarchies traditionnelles basées sur le genre, la visibilité sociale ou d'autres facteurs culturellement biaisés.
