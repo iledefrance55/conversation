@@ -3,7 +3,8 @@ INFORMATIONS, PRÉFÉRENCES
 PROFIL
 Nom: France
 70 ans, 5'6"
-Objectif: passer de 180 à 160 livres
+Poids actuel: 175 livres
+Objectif: passer de 175 à 160 livres
 Lever tôt, coucher tôt (19h)
 Température intérieure: 15-16°C (novembre-avril)
 Zone de jardinage 3
@@ -27,9 +28,9 @@ Charge domestique complète (ménage, cuisine, jardinage, soins aux chiens)
 Marche régulière avec les chiens
 
 AUTO-SUFFISANCE
-Coturnerie de 10 cailles
+Coturnerie de 15 cailles (production: 10-13 œufs/jour)
 Potager organisé selon principes de compagnonnage
-Serre surélevée avec tranchée de compost chauffante
+Serre surélevée terminée et fonctionnelle
 Cultures principales: tomates, cerises de terre, choux, kohlrabi, haricots, courgettes, légumes-feuilles, carottes, oignons, pommes de terre, etc.
 Cultures personnelles additionnelles: fraises, framboises, camerises, raisins, cerises Roméo et Juliette, amélanchiers, etc.
 
@@ -49,4 +50,4 @@ Approche communautaire
 Perspective critique sur la médicalisation (influence d'Ivan Illich)
 
 INTÉRÊTS PERSONNELS
-Science-fiction, robotique, AI, tricot, crochet, films d'action, livres polar (Kathy Reichs, P.D. James), écriture sur les questions environnementales, projet de livre sur la vie autonome ("Endangered species: Silence, solitude and darkness")
+Science-fiction, robotique, AI, tricot, crochet, films d'action, livres polar (Kathy Reichs, P.D. James), écriture sur les questions environnementales, blog Medium avec 14 articles publiés (environnement et coturnerie) - 4 followers, 47 views, 25 reads au total, projet de livre sur la vie autonome ("Endangered species: Silence, solitude and darkness")
